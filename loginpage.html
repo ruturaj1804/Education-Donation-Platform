@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-container" id="register-form">
+            <h2>New User Registration</h2>
+			<form action="lform.php" method="post">
+            <input type="text" name="uname" placeholder="Username" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="text" name="number" placeholder="Mobile No" required>
+            <input type="password" name="pass" placeholder="Password" required>
+            <button>Sign Up</button>
+			</form> 
+           <p onclick="showNewUserRegistration()">Already have an account? Login</p>
+        </div>
+        
+        <div class="form-container" id="login-form">
+            <h2>Existing User Login</h2>
+            <form action="login.php" method="post">
+            <input type="text" name="uname" placeholder="Username" required>
+            <input type="password" name="pass" placeholder="Password" required>
+            <button>Login</button>
+            </form>
+            <p onclick="showForgotPassword()">Forgot Password?</p>
+            <p onclick="showRegister()">New User? Register</p>
+        </div>
+        
+        <div class="form-container" id="forgot-password-form">
+            <h2>Reset Password</h2>
+            <input type="text" placeholder="Username" required>
+            <input type="text" placeholder="Registered Mobile No" required>
+            <input type="password" placeholder="New Password" required>
+            <button onclick="showLogin()">Update Password</button>
+        </div>
+    </div>
+    
+    <script>
+        function showLogin() {
+            document.getElementById('register-form').style.display = 'none';
+            document.getElementById('forgot-password-form').style.display = 'none';
+            document.getElementById('login-form').style.display = 'block';
+        }
+        
+        function showForgotPassword() {
+            document.getElementById('login-form').style.display = 'none';
+            document.getElementById('forgot-password-form').style.display = 'block';
+        }
+        
+        function showRegister() {
+            document.getElementById('login-form').style.display = 'none';
+            document.getElementById('forgot-password-form').style.display = 'none';
+            document.getElementById('register-form').style.display = 'block';
+        }
+		
+    </script>
+</body>
+</html>
