@@ -10,6 +10,9 @@ Engaging sliding images highlight the impact of donations.
 A clear Call-to-Action (CTA) encourages visitors to donate and support education.
 
 ![1000080985](https://github.com/user-attachments/assets/f617dbbd-6c7d-4f75-8f47-67c0f1966284) 
+![Screenshot 2025-03-26 223643](https://github.com/user-attachments/assets/c990dad4-85d9-4538-bd56-612ee8b8db3b)
+
+
 
 
 2. Our Goals Section
@@ -43,7 +46,10 @@ Integration with Razorpay and PayPal ensures smooth and trusted transactions.
 Transparent tracking of donations for accountability.
 
 ![IMG-20250327-WA0020](https://github.com/user-attachments/assets/2815e93b-5629-40cd-94cd-771042d3a984)
+![Screenshot 2025-03-25 231504](https://github.com/user-attachments/assets/ea0a6f1a-f460-475f-8518-f326da38a87c)
 ![IMG-20250327-WA0015](https://github.com/user-attachments/assets/4b2a0abd-e8bc-490b-9481-c877fb6a3151)
+![Screenshot 2025-03-27 144912](https://github.com/user-attachments/assets/7d0c3cfe-4c91-4edf-b16c-21337f2a0a5e)
+
 
 
 5. Student Registration & Document Verification
@@ -52,7 +58,13 @@ Students in need can register for financial aid.
 A document upload system allows students to submit educational and financial proof.
 Our PHP-based backend system stores and verifies documents for authenticity before granting financial assistance.
 
-![IMG-20250327-WA0022](https://github.com/user-attachments/assets/0aa1742f-5cd4-48b0-8cfc-da541bf18298)
+![Screenshot 2025-03-27 151557](https://github.com/user-attachments/assets/6b75b348-cd83-48cc-b24d-3d29b39ef1f2)
+![Screenshot 2025-03-26 230116](https://github.com/user-attachments/assets/e13e9611-c37f-419a-9e28-887099a96201)
+![Screenshot 2025-03-26 230132](https://github.com/user-attachments/assets/222a759f-c495-4729-8122-c1a5be058a00)
+
+
+
+
 
 
 
@@ -62,7 +74,7 @@ Visitors can reach out for inquiries, support, or partnership opportunities.
 Feedback and concerns from users are addressed through this section.
 
 ![IMG-20250327-WA0017](https://github.com/user-attachments/assets/26f2f530-a454-4edb-aa01-ccbc7cc744ee)
-![IMG-20250327-WA0020](https://github.com/user-attachments/assets/e05a3735-6c48-4cc5-ae32-f4f48dde029c)
+
 
 
 
