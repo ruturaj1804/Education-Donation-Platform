@@ -43,6 +43,7 @@ Integration with Razorpay and PayPal ensures smooth and trusted transactions.
 Transparent tracking of donations for accountability.
 
 ![IMG-20250327-WA0020](https://github.com/user-attachments/assets/2815e93b-5629-40cd-94cd-771042d3a984)
+![IMG-20250327-WA0015](https://github.com/user-attachments/assets/4b2a0abd-e8bc-490b-9481-c877fb6a3151)
 
 
 5. Student Registration & Document Verification
@@ -52,7 +53,7 @@ A document upload system allows students to submit educational and financial pro
 Our PHP-based backend system stores and verifies documents for authenticity before granting financial assistance.
 
 ![IMG-20250327-WA0022](https://github.com/user-attachments/assets/0aa1742f-5cd4-48b0-8cfc-da541bf18298)
-![IMG-20250327-WA0015](https://github.com/user-attachments/assets/4b2a0abd-e8bc-490b-9481-c877fb6a3151)
+
 
 
 6. Contact Us Section
